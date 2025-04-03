@@ -1,0 +1,2 @@
+# Can be empty for now, or add:
+Flask==2.0.1
